@@ -1,1 +1,2 @@
-# JavaScript_2025.04.16
+# Review Js
+  - Next study : typeof 
